@@ -3,7 +3,7 @@ kea
 
 Open source, highly customizable music player. Currently in beta for Windows and Linux. This program allows skins (interfaces) to be made using custom Python scripts, which use the kea library and underlying PyQt or PySide framework. Two sample interfaces are supplied: Rectangular, which uses a standard Windows layout with a directory tree, a standard music track layout, and some fancy graphics, and Shaped, which looks like a desktop widget.
 
-See the official guide for more information on using kea and creating your own interfaces: http://kea.pylonsoflight.com/guide.html
+See the official guide for more information on using kea and creating your own interfaces: http://pylonsoflight.com/kea/guide.php
 
 Note that kea stores the directories that make up your music library, rather than having you add the files directly. You can use the Library dialog to add new music library directories. You can also remove, rescan, or search for new files that have been created in existing music library directories. Depending on the interface, you might also have access to global hotkeys (often the number pad) that can be used to quickly restart tracks, skip to the next track, etc.
 
